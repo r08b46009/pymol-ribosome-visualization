@@ -10,5 +10,6 @@ This repository contains PyMOL scripts for visualizing ribosomal RNA A-helices, 
 ## Usage
 
 Run a script in PyMOL with:
-
+```
 @script_name.pml
+```
