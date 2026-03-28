@@ -9,7 +9,15 @@ This repository contains PyMOL scripts for visualizing ribosomal RNA A-helices, 
 
 ## Usage
 
-Run a script in PyMOL with:
-```
+### Requirements
+- PyMOL
+- Corresponding ribosome structure files (PDB)
+
+### Running a script
+1. Open PyMOL.
+2. Load the corresponding structure file.
+3. Run a script in the PyMOL command line:
+
+```text
 @script_name.pml
 ```
