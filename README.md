@@ -7,6 +7,12 @@ This repository contains PyMOL scripts for visualizing ribosomal RNA A-helices, 
 - `scripts/` — PyMOL scripts for structure visualization
 - `examples/` — example rendered images or outputs
 
+## Example Outputs
+
+### Ribosome overview
+
+![Ribosome overview](https://github.com/r08b46009/pymol-ribosome-visualization/blob/main/examples/1jj2.png)
+
 ## Usage
 
 ### Requirements
